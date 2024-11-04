@@ -1,0 +1,7 @@
+package testNG;
+
+public class TestNGclass {
+    public static void main(String[] args) {
+        System.out.println("Hi");
+    }
+}
