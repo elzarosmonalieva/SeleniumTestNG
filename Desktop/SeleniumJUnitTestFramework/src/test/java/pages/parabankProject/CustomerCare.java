@@ -31,7 +31,7 @@ public class CustomerCare {
 //    @FindBy(xpath = "mmm")
 //    public List<WebElement> itemss;
 //    List<WebElement> items = driver.findElements(By.xpath("mmm"));
-
+//which project is this?
     public void sendMessage() {
         contact.click();
         name.sendKeys("Lisa");
